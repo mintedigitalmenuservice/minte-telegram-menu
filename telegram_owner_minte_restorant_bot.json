@@ -1,0 +1,118 @@
+
+
+{
+  "language_menu": {
+    "helper_video": "C:/Minte VS Code Python/minte_restorant_helper_video/Minte Logo.mp4",
+    "bot_link": "https://t.me/MinteRestorantBot",
+
+    "first_language": {
+      "starts": {
+        "name": "English",
+        "start_describ": "You can update your bot service by clicking buttons below\n\nWhat do you want to update?",
+        "start_menu": "🎞 Helper Video",
+        "please_wait_video": "⏳ Please wait, video is sending...",
+        "start_contact": "🤝 Contact for more information"
+      },
+
+      "request_image": "Please send me the NEW IMAGE (only photo):",
+      "request_description": "Please send me the NEW DESCRIPTION (text only):",
+      "request_price": "Please send me the NEW PRICE (number only):",
+      "updating_message": "Updating... Please wait...",
+      "image_updated": "Image updated successfully!",
+      "description_updated": "Description updated successfully!",
+      "price_updated": "Price updated successfully to:",
+      "error_photo_only": "Please send a PHOTO (not text, file or video).",
+      "error_text_only": "Please send TEXT for description.",
+      "error_number_only": "Please send a valid NUMBER for price.",
+
+      "timeout_message": "⏰ Timeout! Request expired after 5 minute❌.\n\nPlease click the update button again to continue.",
+      
+      "video_not_found": "Helper video not found. Please check file path.",
+
+      "host_food": "🍽 Which Food do you want to Update?",
+      "host_drink": "🥛 Which Drink do you want to Update?",
+
+      "food": {
+        "types": "🥙 Update Food Info",
+        "food_current": "Current",
+        "food_info": "Information",
+        "food_update_image_f": "Update",
+        "food_update_image_s": "Image",
+        "food_update_descr_f": "Update",
+        "food_update_descr_s": "Description",
+        "food_update_price_f": "Update",
+        "food_update_price_s": "Price",
+        "food_succes": "has been updated successfully ✓"
+      },
+
+      "drink": {
+        "types": "🥛 Update Drink Info",
+        "drink_current": "Current",
+        "drink_info": "Information",
+        "drink_update_image_f": "Update",
+        "drink_update_image_s": "Image",
+        "drink_update_descr_f": "Update",
+        "drink_update_descr_s": "Description",
+        "drink_update_price_f": "Update",
+        "drink_update_price_s": "Price",
+        "drink_succes": "has been updated successfully ✓"
+      },
+
+      "contact": "🤝 Contact Us\nYou can reach us through any of the following contacts:\n\n📍 Location: Dilla, Ethiopia\n\n📱 Phone: 0951388278\n\n💬 Telegram: https://t.me/Minte_contact\n\n📧 Email: [mintechatbot@gmail.com]"
+    },
+
+    "second_language": {
+      "starts": {
+        "name": "አማርኛ",
+        "start_describ": "ከታች ባሉት በተኖች በመጭን አገልግሎትዎን ማዘመን ይችላሉ\n\nምን ማዘመን ይፈልጋሉ?",
+        "start_menu": "🎞 አጋዥ ቪዲዮ",
+        "please_wait_video": "⏳ እባክዎ ይጠብቁ ቪዲዮ እየተላከ ነው...",
+        "start_contact": "📞 ለበለጠ መረጃ"
+      },
+
+      "request_image": "እባክዎ አዲስ ምስል ይላኩ (ፎቶ ብቻ):",
+      "request_description": "እባክዎ አዲስ መግለጫ ይላኩ (ጽሁፍ ብቻ):",
+      "request_price": "እባክዎ አዲስ ዋጋ ይላኩ (ቁጥር ብቻ):",
+      "updating_message": "እየዘመነ ነው... እባክዎ ይጠብቁ...",
+      "image_updated": "ምስሉ በሚገባ ዘምኗል!",
+      "description_updated": "መግለጫው በሚገባ ዘምኗል!",
+      "price_updated": "ዋጋው በሚገባ ዘምኗል ፡",
+      "error_photo_only": "እባክዎ ፎቶ ብቻ ይላኩ (ጽሁፍ, ቪዲዮ ወይም ፋይል አይላኩ).",
+      "error_text_only": "እባክዎ ለመግለጫው ጽሁፍ ብቻ ይላኩ.",
+      "error_number_only": "እባክዎ ለዋጋው ትክክለኛ ቁጥር ብቻ ይላኩ.",
+
+      "timeout_message": "⏰ ጊዜ አልፏል! ጥያቄዎ ከ5 ደቂቃ በኋላ ተሰርዟ❌.\n\nእባክዎ እንደገና የዘመና በተን ይጫኑ.",
+      
+      "host_food": "🍽 የትኛውን ምግብ ማዘመን ይፈልጋሉ?",
+      "host_drink": "🥛 የትኛውን መጠጥ ማዘመን ይፈልጋሉ?",
+
+      "food": {
+        "types": "🥙 ምግብ ማዘመን",
+        "food_current": "የአሁኑ",
+        "food_info": "መረጃ",
+        "food_update_image_f": "ምስል",
+        "food_update_image_s": "አዘምን",
+        "food_update_descr_f": "መግለጫ",
+        "food_update_descr_s": "አዘምን ",
+        "food_update_price_f": "ዋጋ",
+        "food_update_price_s": "አዘምን",
+        "food_succes": "በሚገባ ዘምኗል ✓"
+      },
+
+      "drink": {
+        "types": "🥛 መጠጥ ማዘመን",
+        "drink_current": "የአሁኑ",
+        "drink_info": "መረጃ",
+        "drink_update_image_f": "ምስል",
+        "drink_update_image_s": "አዘምን",
+        "drink_update_descr_f": "መግለጫ",
+        "drink_update_descr_s": "አዘምን" ,
+        "drink_update_price_f": "ዋጋ",
+        "drink_update_price_s": "አዘምን",
+        "drink_succes": "በሚገባ ዘምኗል ✓"
+      },
+
+      "contact": "🤝 ያግኙን\n\nከሚከተሉት አድራሻዎች በኩል ማግኘት ይችላሉ፦\n\n📍 አድራሻ፦ ዲላ፣ ኢትዮጵያ\n\n📱 ስልክ፦ 0951388278\n\n💬 ቴሌግራም፦ https://t.me/Minte_contact\n\n📧 ኢሜይል፦ [mintechatbot@gmail.com]"
+    }
+  }
+}
