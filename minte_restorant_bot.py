@@ -8,8 +8,6 @@ from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, fil
 from telegram import InlineKeyboardButton, InlineKeyboardMarkup, Update
 import api_restorant_bot
 
-import staypresent
-staypresent.run("minte_restorant_bot.py")
 
 logging.basicConfig(
     level=logging.ERROR,
